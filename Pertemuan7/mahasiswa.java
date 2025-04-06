@@ -1,11 +1,11 @@
 package Pertemuan7;
 
-public class mahasiswa {
+public class Mahasiswa {
     private String NRP;
     private String Nama;
 
     // Constructor
-    public mahasiswa(String nrp, String nama) {
+    public Mahasiswa(String nrp, String nama) {
         this.NRP = nrp;
         this.Nama = nama;
     }
