@@ -5,6 +5,7 @@ import java.util.List;
 
 public class KartuHasilStudi {
     private String semester;
+    private Double ips;
     private List<MataKuliah> daftarMataKuliah;
     
     public KartuHasilStudi(String semester) {
