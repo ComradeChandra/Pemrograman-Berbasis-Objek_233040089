@@ -1,5 +1,4 @@
 package Pertemuan7;
-
 public class MataKuliah {
     private String kode;
     private String nama;
